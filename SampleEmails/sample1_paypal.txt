@@ -1,0 +1,37 @@
+Return-Path: <support@paypal-support-alert.com>
+Received: from mail.paypal-support-alert.com (mail.paypal-support-alert.com [185.234.216.45])
+        by mx.google.com with ESMTPS id x7si123456qka.23.2026.02.03
+        for <user@email.com>;
+        Mon, 03 Feb 2026 10:12:23 -0800 (PST)
+Received-SPF: fail (google.com: domain of support@paypal-support-alert.com does not designate 185.234.216.45 as permitted sender)
+Authentication-Results: mx.google.com;
+        spf=fail smtp.mailfrom=support@paypal-support-alert.com;
+        dkim=none;
+        dmarc=fail
+From: PayPal Security <support@paypal-support-alert.com>
+Reply-To: attacker@malicious-server.ru
+Subject: Action Required: PayPal Payment Request
+Date: Mon, 03 Feb 2026 10:12:23 -0800
+Message-ID: <20260203101223@mail.paypal-support-alert.com>
+To: user@email.com
+MIME-Version: 1.0
+Content-Type: text/plain
+
+----------------------------------------
+
+Dear Customer,
+
+You have received a new payment request on your PayPal account.
+
+Amount Requested: $499.99
+
+If you did not authorize this request, please cancel it immediately to avoid charges.
+
+Verify and cancel the request here:
+
+http://paypal-secure-resolution[.]com/verify
+
+Failure to respond within 24 hours may result in automatic processing of the payment.
+
+Thank you,
+PayPal Security Team

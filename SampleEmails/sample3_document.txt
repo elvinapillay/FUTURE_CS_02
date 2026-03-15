@@ -1,0 +1,26 @@
+Subject: You received a secure document
+
+From: noreply@secure-share-docs.com
+
+To: user@email.com
+
+Date: Wed, 5 Feb 2026 13:40:22
+
+Email Body
+
+Hello,
+
+You have received a secure document via OneDrive Secure Share.
+
+Document Name: Invoice_February.pdf
+
+To view the document, select your email provider below and login.
+
+View Document:
+
+http://onedrive-secure-docs[.]site/login
+
+This link will expire today.
+
+Best regards,
+Secure Document Service

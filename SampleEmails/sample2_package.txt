@@ -1,0 +1,24 @@
+Subject: Your Package is Waiting for Delivery
+
+From: tracking@express-shipping-alert.com
+
+To: user@email.com
+
+Date: Tue, 4 Feb 2026 09:04:11
+
+Email Body
+
+Dear Customer,
+
+Your shipment has arrived at the distribution center.
+
+Tracking Number: TRK938472
+
+To complete delivery, please confirm your address using the tracking portal below:
+
+http://track-delivery-service[.]xyz/confirm
+
+If the address is not confirmed within 12 hours, the package will be returned to the sender.
+
+Regards,
+Shipping Department

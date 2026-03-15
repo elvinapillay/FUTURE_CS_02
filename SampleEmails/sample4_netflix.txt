@@ -1,0 +1,36 @@
+Return-Path: <billing@netflix-support-center.com>
+Received: from smtp.netflix-support-center.com (smtp.netflix-support-center.com [103.145.67.82])
+        by mx.google.com with ESMTPS id s12si987654qkl.55.2026.02.06
+        for <user@email.com>;
+        Thu, 06 Feb 2026 18:20:04 -0800 (PST)
+Received-SPF: softfail (google.com: domain of billing@netflix-support-center.com does not designate 103.145.67.82 as permitted sender)
+Authentication-Results: mx.google.com;
+        spf=softfail smtp.mailfrom=billing@netflix-support-center.com;
+        dkim=none;
+        dmarc=fail
+From: Netflix Billing <billing@netflix-support-center.com>
+Reply-To: payments@account-update.ru
+Subject: Netflix Account Suspended — Update Payment
+Date: Thu, 06 Feb 2026 18:20:04 -0800
+Message-ID: <20260206182004@smtp.netflix-support-center.com>
+To: user@email.com
+MIME-Version: 1.0
+Content-Type: text/plain
+
+----------------------------------------
+
+Dear Netflix User,
+
+We were unable to process your recent subscription payment.
+
+Your account has been temporarily suspended.
+
+To continue enjoying Netflix services, update your payment information immediately.
+
+Update Payment:
+
+http://netflix-billing-update[.]live/account
+
+If payment details are not updated within 24 hours, your account may be permanently closed.
+
+Netflix Billing Team

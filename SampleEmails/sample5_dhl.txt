@@ -1,0 +1,25 @@
+Subject: DHL Shipment Notification
+
+From: notification@dhl-delivery-alert.net
+
+To: user@email.com
+
+Date: Fri, 7 Feb 2026 08:50:31
+
+Email Body
+
+Dear Customer,
+
+DHL attempted to deliver your parcel but no one was available to receive it.
+
+Shipment ID: DHL9928347
+
+Please download the attached shipping document and schedule a new delivery time.
+
+Download Shipment Details:
+
+http://dhl-shipment-docs[.]info/download
+
+Thank you for choosing DHL.
+
+DHL Express Courier Service
