@@ -1,23 +1,62 @@
-Phishing Detection & Awareness Analysis
-Project Description
-This repository features a comprehensive Phishing Detection and Awareness Report that analyzes various deceptive email samples. The project focuses on identifying common phishing indicators, performing technical email header analysis, and providing actionable prevention guidelines.
-Objective
-The goal was to examine specific phishing samples to highlight warning signs—such as suspicious domains and urgent language and provide a professional framework for email risk classification and security training.
-Scope
-The analysis covers five distinct phishing scenarios impersonating major brands:
-Financial & Services: PayPal payment requests and Netflix account suspensions.
-Logistics & Shipping: DHL shipment notifications and general package delivery alerts.
-Document Sharing: Unauthorized secure document access requests via spoofed OneDrive links.
-Methodology
-Technical Header Analysis: Examining routing and authentication protocols (SPF, DKIM, DMARC).
-Indicator Identification: Identifying psychological triggers like urgency and fear-based language.
-URL Inspection: Performing safe link hovering and domain reputation checks.
-Risk Classification: Categorizing emails based on authentication failures and sender legitimacy.
-Tools Used
-Google Admin Toolbox: Messageheader Analyzer for deep header inspection.
-MXToolbox: Verified email routing, authentication records, and domain reputation.
-Safe Link Inspection Tools: Used for non-intrusive URL analysis.
-Risk Summary
-Overall Risk: High.
-Phishing continues to be a primary threat vector by targeting human behavior. Technical analysis confirms that these deceptive emails are sophisticated enough to bypass basic user scrutiny without proper training and authentication checks.
-Prepared by: Elvina Prakash Pillay
+# Phishing Detection & Awareness Analysis
+
+## Overview
+This project analyzes multiple phishing email samples to identify common attack patterns, technical indicators, and user-targeted manipulation techniques.
+
+---
+
+## Objective
+- Detect phishing indicators in email samples  
+- Perform technical header analysis  
+- Classify risks and improve awareness  
+
+---
+
+## Scope
+- Financial: PayPal, Netflix  
+- Logistics: DHL, delivery alerts  
+- Document Sharing: OneDrive spoofing  
+
+---
+
+## Methodology
+- Header Analysis (SPF, DKIM, DMARC)  
+- Indicator Identification (urgency, fear tactics)  
+- URL Inspection  
+- Risk Classification  
+
+---
+
+## Tools Used
+- Google Admin Toolbox (Messageheader Analyzer)  
+- MXToolbox  
+- Safe Link Inspection Tools  
+
+---
+
+## Key Findings
+- Spoofed domains and sender impersonation  
+- Use of urgency and social engineering tactics  
+- Suspicious or misleading URLs  
+- Authentication failures in email headers  
+
+---
+
+## Risk Summary
+**Overall Risk Level: High**
+
+---
+
+## Conclusion
+Phishing remains a major threat by exploiting human behavior. Technical analysis combined with user awareness is essential to detect and prevent attacks.
+
+---
+
+## Files
+- Phishing Detection Report.pdf  
+- /SampleEmails
+
+---
+
+## Author
+Elvina Prakash Pillay
