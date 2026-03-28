@@ -2,7 +2,7 @@ Phishing Detection & Awareness Analysis
 Project Description
 This repository features a comprehensive Phishing Detection and Awareness Report that analyzes various deceptive email samples. The project focuses on identifying common phishing indicators, performing technical email header analysis, and providing actionable prevention guidelines.
 Objective
-The goal was to examine specific phishing samples to highlight warning signs—such as suspicious domains and urgent language—and provide a professional framework for email risk classification and security training.
+The goal was to examine specific phishing samples to highlight warning signs—such as suspicious domains and urgent language and provide a professional framework for email risk classification and security training.
 Scope
 The analysis covers five distinct phishing scenarios impersonating major brands:
 Financial & Services: PayPal payment requests and Netflix account suspensions.
